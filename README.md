@@ -1,22 +1,23 @@
 I'm Rutuja Shahale, a passionate Data Analyst skilled in SQL, MS Excel, Python, Power BI.
 
-SQL : Proficient in querying and manipulating data with SQL.
+• SQL : Proficient in querying and manipulating data with SQL.
 
-Python : Utilizes Python for data wrangling and advanced analytics.
+• Python : Utilizes Python for data wrangling and advanced analytics.
 
-Excel : Generates reports and performs data analysis using MS Excel.
+• Excel : Generates reports and performs data analysis using MS Excel.
 
-Power BI : Develops interactive dashboards using Tableau and Power BI.
+• Power BI : Develops interactive dashboards using Tableau and Power BI.
 
 
 ⚙️ Skills:-
-Language: SQL, Python
 
-Database: MySQL
+- Language: SQL, Python
 
-Visualization: Power BI
+- Database: MySQL
 
-Spreadsheet: MS Excel
+- Visualization: Power BI
+
+- Spreadsheet: MS Excel
 
 Portfolio: https://rutuja-shahale.github.io
 
