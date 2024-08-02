@@ -14,7 +14,7 @@ Spreadsheet: MS Excel
 
 Portfolio: https://rutuja-shahale.github.io
 
-Let's Connect on LinkedIn: linkedin.com/in/rutuja-shahale
+Let's Connect on LinkedIn: (https://www.linkedin.com/in/rutuja-shahale/)
 
 
 <!---
