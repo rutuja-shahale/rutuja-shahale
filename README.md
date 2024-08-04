@@ -1,4 +1,5 @@
 https://www.canva.com/design/DAGM5zmGMyU/Zz7WqpnRbXPZQ8yptVVjBg/edit?utm_content=DAGM5zmGMyU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 I'm Rutuja Shahale, a passionate Data Analyst skilled in SQL, MS Excel, Python, Power BI.
 
 • SQL : Proficient in querying and manipulating data with SQL.
