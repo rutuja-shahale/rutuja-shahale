@@ -1,4 +1,4 @@
-https://www.canva.com/design/DAGM5zmGMyU/Zz7WqpnRbXPZQ8yptVVjBg/edit?utm_content=DAGM5zmGMyU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+![Black and White Simple Art Director LinkedIn Banner](https://github.com/user-attachments/assets/63abe70b-eba3-44e3-a2a5-dde14f187656)
 
 I'm Rutuja Shahale, a passionate Data Analyst skilled in SQL, MS Excel, Python, Power BI.
 
