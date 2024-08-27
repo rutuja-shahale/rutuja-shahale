@@ -23,7 +23,7 @@ I'm Rutuja Shahale, a passionate Data Analyst skilled in SQL, MS Excel, Python, 
 
 Portfolio: https://rutuja-shahale.github.io
 
-Let's Connect on LinkedIn: (https://www.linkedin.com/in/rutuja-shahale/)
+Let's Connect on LinkedIn: https://www.linkedin.com/in/rutuja-shahale/
 
 
 <!---
