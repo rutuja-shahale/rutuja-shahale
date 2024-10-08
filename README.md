@@ -7,11 +7,11 @@ Currently seeking an opportunity to apply my skills in data analysis and visuali
 - 🌱 Data Science Certificate
 
 ## Skills and Expertise
-- Data Cleaning and Preprocessing
-- Data Visualization
-- Exploratory Data Analysis (EDA)
-- Reporting and Dashboard Creation
-- Statistical Analysis
+- 🛠 Data Cleaning and Preprocessing
+- 📊 Data Visualization
+- 🔍 Exploratory Data Analysis (EDA)
+- 📝 Reporting and Dashboard Creation
+- 📈 Statistical Analysis
 
 ## Tools and Languages
 - ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
