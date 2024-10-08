@@ -34,13 +34,8 @@ Conducted an in-depth analysis of marketing campaign performance:
 - Analyzed the impact of different festive campaigns on sales
 - Created Power BI reports to visualize campaign effectiveness and ROI
 
-## Education
-- **Google Data Analytics Professional Certificate** (In Progress)
-- **Bachelor's in Hospitality Management**
-
 ## Let's Connect!
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rutuja-shahale)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rutuja-shahale.github.io)
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rutuja-shahale)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rutuja-shahale) | [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rutuja-shahale.github.io) | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahalerutuja@gmail.com)
+
 
 Feel free to explore my repositories and reach out for collaboration opportunities.
