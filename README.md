@@ -42,7 +42,6 @@ Conducted an in-depth analysis of marketing campaign performance:
 
 ## Let's Connect!
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rutuja-shahale)
-- [Portfolio](https://rutuja-shahale.github.io)
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rutuja-shahale)
+- [![Portfolio](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://rutuja-shahale.github.io)
 
 Feel free to explore my repositories and reach out for collaboration opportunities.
