@@ -23,6 +23,26 @@ I'm Rutuja Shahale, a passionate Data Analyst skilled in SQL, MS Excel, Python, 
 
 Portfolio: https://rutuja-shahale.github.io
 
+
+## Aspiring Data Analyst
+- Currently pursuing the Google Data Analytics Professional Certificate.
+- Bachelor's in Hospitality Management.
+
+## Tools and Languages
+- ![Excel](https://img.shields.io/badge/Excel-%2300B26E.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+- ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+- ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+## Projects
+- **Hospitality Analysis:** Analyzed data to uncover trends and patterns in customer satisfaction.
+- **Festive Campaign Analysis:** Analyzed campaign success to improve ROI.
+
+## Let's Connect!
+[LinkedIn](#) | [Portfolio](#) | [GitHub](#)
+
+
 Let's Connect on LinkedIn: https://www.linkedin.com/in/rutuja-shahale/
 
 
