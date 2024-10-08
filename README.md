@@ -20,17 +20,13 @@ Currently seeking an opportunity to apply my skills in data analysis and visuali
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Projects
-### -  [Xmas Gift Sales Dashboard](https://github.com/rutuja-shahale/Xmas-Gift-Sales-Dashboard) 
-An interactive analysis project providing insights into Xmas gift sales, focusing on top-selling products, payment preferences, and customer segments.
+### • [Xmas Gift Sales Dashboard](https://github.com/rutuja-shahale/Xmas-Gift-Sales-Dashboard) : An interactive analysis project providing insights into Xmas gift sales, focusing on top-selling products, payment preferences, and customer segments.
 
-### -  [Order Management Dashboard](https://github.com/rutuja-shahale/Order-Management-Dashboard) 
-A comprehensive dashboard analyzing order data to optimize inventory management and enhance order fulfillment processes.
+### •  [Order Management Dashboard](https://github.com/rutuja-shahale/Order-Management-Dashboard) : A comprehensive dashboard analyzing order data to optimize inventory management and enhance order fulfillment processes.
 
-### - [Airbnb Analysis](https://github.com/rutuja-shahale/Airbnb-Analysis) 
-An analysis project that explores Airbnb listings to understand pricing strategies and guest satisfaction, leading to actionable insights for hosts.
+### • [Airbnb Analysis](https://github.com/rutuja-shahale/Airbnb-Analysis) : An analysis project that explores Airbnb listings to understand pricing strategies and guest satisfaction, leading to actionable insights for hosts.
 
-### -  [Revenue Insights Dashboard](https://github.com/rutuja-shahale/Revenue-Insights-Dashboard) 
-A dashboard providing comprehensive insights into business operations by visualizing revenue trends and identifying growth opportunities.
+### •  [Revenue Insights Dashboard](https://github.com/rutuja-shahale/Revenue-Insights-Dashboard) : A dashboard providing comprehensive insights into business operations by visualizing revenue trends and identifying growth opportunities.
 
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rutuja-shahale) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rutuja-shahale.github.io) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahalerutuja@gmail.com)
