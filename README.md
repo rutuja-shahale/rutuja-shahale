@@ -6,14 +6,14 @@ Currently seeking an opportunity to apply my skills in data analysis and visuali
 - 🎓 Bachelor's in Computer Science Engineering
 - 🌱 Data Science Certificate
 
-## Skills and Expertise
+## Tools and Technologies
 - 🛠 Data Cleaning and Preprocessing
 - 📊 Data Visualization
-- 🔍 Exploratory Data Analysis (EDA)
-- 📝 Reporting and Dashboard Creation
+- 🔍 Data Analytics
+- 📝 Reporting and Dashboarding
 - 📈 Statistical Analysis
 
-## Tools and Languages
+## Technical Skills
 - ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 - ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 - ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -29,7 +29,8 @@ Currently seeking an opportunity to apply my skills in data analysis and visuali
 •  [Revenue Insights Dashboard](https://github.com/rutuja-shahale/Revenue-Insights-Dashboard) : A dashboard providing comprehensive insights into business operations by visualizing revenue trends and identifying growth opportunities.
 
 ## Let's Connect!
+
+Let's connect and explore the exciting possibilities that data can unlock together. Reach out to me, and let's start a conversation about how we can collaborate or share insights in this thrilling field.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rutuja-shahale) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rutuja-shahale.github.io) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahalerutuja@gmail.com)
 
-
-Feel free to explore my repositories and reach out for collaboration opportunities.
+Thank you for visiting my profile. I look forward to connecting with you!
