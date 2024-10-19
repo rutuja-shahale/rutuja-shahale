@@ -1,8 +1,6 @@
 # Rutuja Shahale - Aspiring Data Analyst
 
-<img src="https://github.com/user-attachments/assets/b4c12f15-bec7-4e10-b382-be807a2e3e07" width="300" />
-
-Currently seeking an opportunity to apply my skills in data analysis and visualization to real-world problems. I'm passionate about deriving insights from data and making data-driven decisions. I have experience working with several tools and technologies to uncover insights.
+<img src="https://github.com/user-attachments/assets/b4c12f15-bec7-4e10-b382-be807a2e3e07" width="300" /> Currently seeking an opportunity to apply my skills in data analysis and visualization to real-world problems. I'm passionate about deriving insights from data and making data-driven decisions. I have experience working with several tools and technologies to uncover insights.
 
 ## Education
 - 🎓 Bachelor's in Computer Science Engineering
