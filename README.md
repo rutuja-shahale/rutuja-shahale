@@ -35,7 +35,7 @@ Currently seeking an opportunity to apply my skills in data analysis and visuali
 
 Let's connect and explore the exciting possibilities that data can unlock together. Reach out to me, and let's start a conversation about how we can collaborate or share insights in this thrilling field.
 
-Thank you for visiting my profile. I look forward to connecting with you! ![Profile Views](https://komarev.com/ghpvc/?username=rutuja-shahale&color=00008B)
+Thank you for visiting my profile. I look forward to connecting with you! ![Profile Views](https://komarev.com/ghpvc/?username=rutuja-shahale&color=2E5984)
 
 
 
