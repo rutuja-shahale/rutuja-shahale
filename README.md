@@ -1,5 +1,7 @@
 # Rutuja Shahale - Aspiring Data Analyst
 
+
+
 Currently seeking an opportunity to apply my skills in data analysis and visualization to real-world problems. I'm passionate about deriving insights from data and making data-driven decisions. I have experience working with several tools and technologies to uncover insights.
 
 ## Education
