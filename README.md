@@ -1,4 +1,4 @@
-# Hello I'm Rutuja Shahale
+# Hello, I'm Rutuja Shahale! 👋
 
 <img src="https://github.com/user-attachments/assets/b4c12f15-bec7-4e10-b382-be807a2e3e07" width="300" /> 
 
