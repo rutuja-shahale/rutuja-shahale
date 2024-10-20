@@ -9,11 +9,13 @@ Currently seeking an opportunity to apply my skills in data analysis and visuali
 - 🌱 Data Science Certificate
 
 ## Tools and Technologies
-- 🛠 Data Cleaning and Preprocessing
-- 📊 Data Visualization
-- 🔍 Data Analytics
-- 📝 Reporting and Dashboarding
-- 📈 Statistical Analysis
+### Skills
+![Data Cleaning and Preprocessing](https://img.shields.io/badge/Data%20Cleaning%20and%20Preprocessing-00BFFF?style=for-the-badge&logo=cleaning&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FFA500?style=for-the-badge&logo=chart-bar&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-FF6347?style=for-the-badge&logo=analytics&logoColor=white)
+![Reporting and Dashboarding](https://img.shields.io/badge/Reporting%20and%20Dashboarding-6A5ACD?style=for-the-badge&logo=dashboard&logoColor=white)
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-32CD32?style=for-the-badge&logo=bar-chart&logoColor=white)
+
 
 ## Technical Skills
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
