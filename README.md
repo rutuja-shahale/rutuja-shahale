@@ -20,7 +20,8 @@ Currently seeking an opportunity to apply my skills in data analysis and visuali
 ## Technical Skills
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=python,excel,mysql,powerbi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql)](https://skillicons.dev) ![image](https://github.com/user-attachments/assets/98d3e64e-58f8-410e-a1ef-acea376f3935)
+
 
 ## Projects
 • [Xmas Gift Sales Dashboard](https://github.com/rutuja-shahale/Xmas-Gift-Sales-Dashboard) : An interactive analysis project providing insights into Xmas gift sales, focusing on top-selling products, payment preferences, and customer segments.
