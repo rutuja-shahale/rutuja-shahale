@@ -1,6 +1,6 @@
 # Hello, I'm Rutuja Shahale! 👋
 
-Currently seeking an opportunity to apply my skills in data analysis and visualization to real-world problems. I'm passionate about deriving insights from data and making data-driven decisions. I have experience working with several tools and technologies to uncover insights.
+Seeking opportunities to apply my data analysis and visualization skills. Passionate about turning data into insights and driving decisions using various tools and technologies.
 
 ## Education
 - 🎓 Bachelor's in Computer Science Engineering
